@@ -1,4 +1,4 @@
-package com.example.newschallenge
+package com.example.ui
 
 import org.junit.Test
 
