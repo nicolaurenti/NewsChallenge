@@ -15,4 +15,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "NewsChallenge"
 include(":app")
- 
+include(":domain")
+include(":data")
+include(":di")
+include(":ui")
