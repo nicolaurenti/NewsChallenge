@@ -11,5 +11,3 @@
 | ScreenShot |
 |------------|
 | ![news challenge](https://github.com/nicolaurenti/NewsChallenge/assets/58676544/53208e69-9588-49f1-9a2c-333db36b73e7) |
-
-⚠ This app was built with multiple commits, but when I was done I did a git squash to group the commits into a single commit.
